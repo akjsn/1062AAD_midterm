@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APP04_105590051</string>
+    <string name="absentee">"Absent: "</string>
+    <string name="s1">"Student 1"</string>
+    <string name="s2">"Student 2"</string>
+    <string name="s3">"Student 3"</string>
+    <string name="s4">"Student 4"</string>
+    <string name="s5">"Student 5"</string>
+    <string name="s6">"Student 6"</string>
+    <string name="s7">"Student 7"</string>
+    <string name="s8">"Student 8"</string>
+    <string name="s9">"Student 9"</string>
+    <string name="s10">"Student 10"</string>
+    <string name="clr">"Clear"</string>
+
+</resources>
