@@ -31,6 +31,8 @@ public class letterGradeTest {
         assertEquals("Grade： D", ms.doGrade(60));
         assertEquals("Grade： F", ms.doGrade(20));
         assertEquals("Grade： Input score must be from 0 to 100", ms.doGrade(-1));
-        assertEquals("Grade： Input score must be from 0 to 100", ms.doGrade(55555));
+        assertEquals("Grade：" +
+                "" +
+                " Input score must be from 0 to 100", ms.doGrade(55555));
     }
 }
