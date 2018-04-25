@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         s1.setOnClickListener(btnstu1OnClick);
 
         private View.OnClickListener btnstu1OnClick = new View.OnClickListener() {
-        
+
     }
 
 
